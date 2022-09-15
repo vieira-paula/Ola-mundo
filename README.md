@@ -1,2 +1,3 @@
-# Ola mundo
- My First repository Git
+# Ola, mundo!
+ My First repository Git and GitHub
+
